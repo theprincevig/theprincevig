@@ -1,5 +1,5 @@
-Hey, I’m @theprincevig, I’m interested in coding
-I’m currently learning JavaScript and Java with DSA
+Hey, I’m @theprincevig, I’m interested in coding.
+And I’m currently learning JavaScript and Java with DSA
 - WaheguruJi MeherKare....
 
 <!---
