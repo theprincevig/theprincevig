@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=30&letterSpacing=0.1rem&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Prince+Vig;Full+Stack+Developer;Lifelong+Learner;CoderxCrusher...." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=30&letterSpacing=0.1rem&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Prince+Vig;Full+Stack+Developer;Lifelong+Learner;CodexCrusher...." alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Turning ideas into code that works ⚡</h3>
